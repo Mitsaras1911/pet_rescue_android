@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pet Rescue</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_found">Found</string>
+    <string name="action_missing">Missing</string>
+    <string name="title_activity_found">I have found a pet</string>
+    <string name="title_activity_found2">Midterm</string>
+    <string name="title_activity_missing">I am missing a pet</string>
+</resources>
