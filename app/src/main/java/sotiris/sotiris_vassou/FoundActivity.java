@@ -31,7 +31,7 @@ public static final String KEY="";
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(getApplicationContext(), "App created by Sotiris Vassou", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(), "App created by Dimitris Vassou", Toast.LENGTH_LONG).show();
             }
         });
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
